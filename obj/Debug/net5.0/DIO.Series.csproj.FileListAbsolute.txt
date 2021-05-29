@@ -1,0 +1,32 @@
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\Cursos e Apostilas\BootCamp Digital Innovation One\Desafio 01\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
